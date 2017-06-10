@@ -1,3 +1,8 @@
+# DEPRECATED
+
+Moved to https://github.com/goph/healthz
+
+
 # Healthz
 
 [![Build Status](https://img.shields.io/travis/sagikazarmark/healthz.svg?style=flat-square)](https://travis-ci.org/sagikazarmark/healthz)
